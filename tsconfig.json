@@ -6,5 +6,12 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/ngx-photo-library/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/ngx-photo-library/tsconfig.spec.json"
+    }
+]
 }
